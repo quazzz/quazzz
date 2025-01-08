@@ -1,14 +1,14 @@
 ## Greetings from Alan!
 <pre>I'm a 14 years old full-stack web developer with primarly focus on Next.js framework</pre>
-Besides that actively learning machine learning with PyTorch and programming languages C++ and C#
+<pre>Besides that actively learning machine learning with PyTorch and programming languages C++ and C#
 Programming languages I'm used so far:
 Javascript
 Python
 Typescript 
 (obviously HTML and CSS)
 For database managament I like to work with MongoDB and SQL
-
-You can reach me via telegram, username is @q7eay
+</pre>
+<pre>You can reach me via telegram, username is @q7eay</pre>
 
 
 
