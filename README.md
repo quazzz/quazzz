@@ -2,9 +2,11 @@
 <pre>I'm a 14 years old full-stack web developer with primarly focus on Next.js framework</pre>
 <pre>Besides that actively learning machine learning with PyTorch and programming languages C++ and C#
 Programming languages I'm used so far:
+<ul>
 Javascript
 Python
 Typescript 
+</ul>
 (obviously HTML and CSS)
 For database managament I like to work with MongoDB and SQL
 </pre>
