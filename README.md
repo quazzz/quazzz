@@ -1,4 +1,16 @@
-## Hi there 👋
+## Greetings from Alan!
+I'm a 14 years old full-stack web developer with primarly focus on Next.js framework
+Besides that actively learning machine learning with PyTorch and programming languages C++ and C#
+Programming languages I'm used so far:
+Javascript
+Python
+Typescript 
+(obviously HTML and CSS)
+For database managament I like to work with MongoDB and SQL
+
+You can reach me via telegram, username is @q7eay
+
+
 
 <!--
 **quazzz/quazzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
