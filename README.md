@@ -3,9 +3,9 @@
 <pre>Besides that actively learning machine learning with PyTorch and programming languages C++ and C#
 Programming languages I'm used so far:
 <ul>
-Javascript
-Python
-Typescript 
+## <li>Javascript</li>
+##<li>Python</li>
+##<li>Typescript</li> 
 </ul>
 (obviously HTML and CSS)
 For database managament I like to work with MongoDB and SQL
