@@ -1,16 +1,36 @@
-## Greetings from Alan!
-<pre>I'm a 14 years old full-stack web developer with primarly focus on Next.js framework</pre>
-<pre>Besides that actively learning machine learning with PyTorch and programming languages C++ and C#
-Programming languages I'm used so far:
-<ul>
-<li>Javascript</li>
-<li>Python</li>
-<li>Typescript</li> 
-</ul>
-(obviously HTML and CSS)
-For database managament I like to work with MongoDB and SQL
-</pre>
-<pre>You can reach me via telegram, username is @q7eay</pre>
+# 👋 Greetings from Alan!
+
+Hi there! I'm Alan, a **14-year-old full-stack web developer** with a primary focus on the **Next.js framework**. 🚀  
+Besides web development, I'm actively diving into **Machine Learning** with **PyTorch** and exploring the intricacies of **C++** and **C#**.  
+
+---
+
+## 🛠️ Technologies & Tools
+
+### Programming Languages
+- **JavaScript**  
+- **Python**  
+- **TypeScript**  
+- (And of course, **HTML** & **CSS**!)  
+
+### Databases
+- **MongoDB**  
+- **SQL**  
+
+---
+
+## 🌱 Currently Exploring
+- Machine learning and AI with **PyTorch**  
+- Advanced **C++** and **C#** concepts  
+
+---
+
+## 📬 Let's Connect!
+Feel free to reach out to me on **Telegram**: [@q7eay](https://t.me/q7eay)  
+
+---
+
+Thanks for stopping by! 😊
 
 
 
