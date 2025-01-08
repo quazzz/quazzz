@@ -1,5 +1,5 @@
 ## Greetings from Alan!
-I'm a 14 years old full-stack web developer with primarly focus on Next.js framework
+<pre>I'm a 14 years old full-stack web developer with primarly focus on Next.js framework</pre>
 Besides that actively learning machine learning with PyTorch and programming languages C++ and C#
 Programming languages I'm used so far:
 Javascript
