@@ -21,7 +21,7 @@ Besides web development, I'm actively diving into **Machine Learning** with **Py
 
 ## 🌱 Currently Exploring
 - Machine learning and AI with **PyTorch**  
-- Advanced **C++** and **C#** concepts  
+- **C++** and **C#**  
 
 ---
 
