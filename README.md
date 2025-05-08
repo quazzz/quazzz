@@ -1,2 +1,3 @@
-fullstack web developer / learning pentesting
+fullstack web developer 
+learning | ai & pentesting
 
