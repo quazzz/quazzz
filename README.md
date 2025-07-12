@@ -1,5 +1,5 @@
 #  fullstack web developer  
-###  learning AI & pentesting
+###  learning AI & pentesting & algos
 
 ---
 
