@@ -1,6 +1,6 @@
 <h3 align="center">fullstack developer</h3>
 
-<h3 align="left">tg: @q7eay:</h3>
+<h3 align="left">tg: @q7eay</h3>
 <p align="left">
 </p>
 
