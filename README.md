@@ -19,5 +19,7 @@
   <br>
   <br>
   🏆 Winner of the Estonian Informatics Olympiad Preliminary Round.
+  <br>
+  🧫 Languages: english (C1), estonian and russian.
 </p>
 
