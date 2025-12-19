@@ -8,5 +8,16 @@
   🔗 <a href="https://quazzz.vercel.app"><b>portfolio</b></a>
   <br>
   🔗 <a href="https://github.com/quazzz/Sporto"><b>Sporto</b> — workout management</a>
+  <br>
+  <br>
+  
+  📚  University of Tartu Youth Academy Competitive Programming I course partipiciant.
+  <br>
+  📚  University of Tartu Youth Academy Artifical Intelligence course partipiciant.
+  <br>
+  📚  Finished EDUKOHT programming courses on following: HTML, CSS, JS, Python.
+  <br>
+  <br>
+  🏆 Winner of the Estonian Informatics Olympiad Preliminary Round.
 </p>
 
