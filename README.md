@@ -15,7 +15,7 @@
   <br>
   📚  University of Tartu Youth Academy Artifical Intelligence course partipiciant.
   <br>
-  📚  Finished EDUKOHT programming courses on following: HTML, CSS, JS, Python.
+  📚  Finished EDUKOHT programming courses on the following: HTML, CSS, JS, Python.
   <br>
   <br>
   🏆 Winner of the Estonian Informatics Olympiad Preliminary Round.
