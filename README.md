@@ -18,8 +18,14 @@
   📚  Finished EDUKOHT programming courses on the following: HTML, CSS, JS, Python.
   <br>
   <br>
+  🏆 Made my first fullstack SaaS app by the age of 14 for schools project. Got nominated as one of the best projects in my primary school.
+  <br>
   🏆 Winner of the Estonian Informatics Olympiad Preliminary Round.
   <br>
   🧫 Languages: english (C1), estonian and russian.
+  <br>
+  📚 Currently learning the following: ML, and alot themes about AI; Algorithms & DS; NestJS.
+  <br>
+  🙏 Future AI revolutioner
 </p>
 
