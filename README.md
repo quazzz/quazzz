@@ -22,9 +22,11 @@
   <br>
   🏆 Winner of the Estonian Informatics Olympiad Preliminary Round.
   <br>
+  <br>
   🧫 Languages: english (C1), estonian and russian.
   <br>
   📚 Currently learning the following: ML, and alot themes about AI; Algorithms & DS; NestJS.
+  <br>
   <br>
   🙏 Future AI revolutioner
 </p>
