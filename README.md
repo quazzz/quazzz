@@ -19,6 +19,8 @@
   <br>
   📚 Taught myself independedly entrepreneurship stuff, especially startup things.
   <br>
+  📚 Proficient in philosophy, biology and physics.
+  <br>
   <br>
   🏆 Made my first fullstack SaaS app by the age of 14 for schools project. Got nominated as one of the best projects in my primary school.
   <br>
