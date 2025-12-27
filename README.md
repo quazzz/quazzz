@@ -17,7 +17,7 @@
   <br>
   📚  Finished EDUKOHT programming courses on the following: HTML, CSS, JS, Python.
   <br>
-  📚 Taught myself independedly entrepreneurship stuff, especially startup things.
+  📚 Taught myself independetly entrepreneurship stuff, especially startup things.
   <br>
   📚 Proficient in philosophy, biology and physics.
   <br>
