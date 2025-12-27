@@ -26,6 +26,8 @@
   <br>
   🏆 Winner of the Estonian Informatics Olympiad Preliminary Round.
   <br>
+  🏆 Attender of the job-shadowing for Senior Software Engineer from Bolt Estonia.
+  <br>
   <br>
   🧫 Languages: english (C1), estonian and russian.
   <br>
