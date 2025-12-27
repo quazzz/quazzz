@@ -17,6 +17,8 @@
   <br>
   📚  Finished EDUKOHT programming courses on the following: HTML, CSS, JS, Python.
   <br>
+  📚 Taught myself independedly entrepreneurship stuff, especially startup things.
+  <br>
   <br>
   🏆 Made my first fullstack SaaS app by the age of 14 for schools project. Got nominated as one of the best projects in my primary school.
   <br>
