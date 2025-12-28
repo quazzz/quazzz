@@ -5,9 +5,11 @@
 <h3 align="left">tg: <a href="https://t.me/q7eay">@q7eay</a></h3>
 
 <p align="left">
-  🔗 <a href="https://quazzz.vercel.app"><b>portfolio</b></a>
+  🔗 <a href="https://quazzz.vercel.app"><b>Portfolio</b></a>
   <br>
   🔗 <a href="https://github.com/quazzz/Sporto"><b>Sporto</b> — workout management</a>
+  <br>
+  🔗 <a href="https://github.com/quazzz/xmas-card-builder"><b>Christmas card builder</b></a>
   <br>
   <br>
   
