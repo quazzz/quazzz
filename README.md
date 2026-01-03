@@ -36,6 +36,6 @@
   📚 Currently learning the following: ML, and alot themes about AI; Algorithms & DS; NestJS.
   <br>
   <br>
-  🙏 Future AI revolutioner
+
 </p>
 
