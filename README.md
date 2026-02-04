@@ -30,10 +30,12 @@
   <br>
   🏆 Attender of the job-shadowing for a senior software engineer role in Bolt.
   <br>
+  🏆 Winner of the Estonian Open Artificial Intelligency Olympiad.
+  <br>
   <br>
   🧫 Languages: english (C1), estonian and russian.
   <br>
-  📚 Currently learning the following: ML, and alot themes about AI; Algorithms & DS; NestJS.
+  📚 Currently learning the following: ML, algorithms and NestJS.
   <br>
   <br>
 
