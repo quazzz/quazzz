@@ -28,7 +28,7 @@
   <br>
   🏆 Winner of the Estonian Informatics Olympiad Preliminary Round.
   <br>
-  🏆 Winner of the Estonian Open Artificial Intelligency Olympiad.
+  🏆 Winner of the Estonian Open Artificial Intelligence Olympiad.
   <br>
   🏆 Attender of the job-shadowing for a senior software engineer role in Bolt.
   <br>
