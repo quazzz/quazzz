@@ -30,6 +30,8 @@
   <br>
   🏆 Winner of the Estonian Open Artificial Intelligence Olympiad.
   <br>
+  🏆 IV place in the Estonian Informatics Olympiad final round.
+  <br>
   🏆 Attender of the job-shadowing for a senior software engineer role in Bolt.
   <br>
   <br>
