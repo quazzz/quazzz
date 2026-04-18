@@ -34,6 +34,8 @@
   <br>
   🏆 Attender of the job-shadowing for a senior software engineer role in Bolt 2025.
   <br>
+  🏆 II place in the Estonian AI Olympiad final round
+  <br>
   <br>
   🧫 Languages: english (C1), estonian and russian.
   <br>
