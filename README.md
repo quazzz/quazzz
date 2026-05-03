@@ -1,1 +1,1 @@
-per aspera ad astra
+<b>for people, by people</b>
